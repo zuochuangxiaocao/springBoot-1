@@ -1,0 +1,21 @@
+
+1.搭建与2018 用于学习springboot框架
+
+2.使用mybatis，并用分页插件，sql使用xml配置方式 generatorConfig 自动生成配置文件
+ 
+3. 连接池使用druid
+
+4.并用全局异常，
+
+5.使用freemarker 前端渲染框架
+
+添加redis支持，并且使用spring cache缓存
+
+添加定时任务支持
+
+添加rabbitMQ 支持    
+
+添加上传文件支持
+
+
+
